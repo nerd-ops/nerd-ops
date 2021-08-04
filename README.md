@@ -23,7 +23,7 @@ I am dedicated to research mainly on
 
 <!--- developers gif : that's good owo -->
 
-<img align="center" alt="DEV" src="https://i.pinimg.com/originals/0c/b5/9a/0cb59a687178d5c766f00fdcb8015e9d.gif" width=500 height=400 />
+<img align="middle" alt="DEV" src="https://i.pinimg.com/originals/0c/b5/9a/0cb59a687178d5c766f00fdcb8015e9d.gif" width=500 height=400 />
 
 <!--- nerd-ops code --->
 <!--- end of my noob code owo --->
