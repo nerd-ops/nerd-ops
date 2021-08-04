@@ -14,6 +14,6 @@ Hello, I am nerd-ops, a Peruvian developer in full studies of many languages, th
 ### I'm not so good but I can be better than you
 <!--- developers gif : that's good owo -->
 
-<img align="right" alt="DEV" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611ae6967838ca902ae5089c41f4c20706850698cab&rid=giphy.gif&ct=g" width="500" height="320" />
+<img align="center" alt="DEV" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611ae6967838ca902ae5089c41f4c20706850698cab&rid=giphy.gif&ct=g" />
 
 <!--- nerd-ops code --->
