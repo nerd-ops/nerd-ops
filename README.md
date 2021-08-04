@@ -12,7 +12,7 @@ Hello, I am nerd-ops, a Peruvian developer in full studies of many languages, th
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 I am dedicated to research mainly on
-<ol type="A">
+<ol type="square">
   <li>Offensive Security </li>
   <li>Cation of scripts in python </li>
   <li>GUI implementation </li>
