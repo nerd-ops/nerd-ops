@@ -26,3 +26,4 @@ I am dedicated to research mainly on
 <img align="center" alt="DEV" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611ae6967838ca902ae5089c41f4c20706850698cab&rid=giphy.gif&ct=g" />
 
 <!--- nerd-ops code --->
+<!--- end of my noob code owo --->
